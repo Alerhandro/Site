@@ -1,13 +1,19 @@
-<script src="Input.js"></script>
-<link rel="stylesheet" href="Tags.css">
-
 <body>
     <nav class="container">
         <ul>
             <li>
-                <a href="index.html">Sair da Pegadinha</a>
+                <a href="index.html">Home</a>
             </li>
+            <li>
+                <a href="Contato.html">Contato</a>
+            </li>
+        </ul>
     </nav>
+<div class="Cadastro">
+       
+    </div>
+
+
     <div class="pegadinha">
     <div class="cordapegadinha">
         <br><br><br><br><br>
