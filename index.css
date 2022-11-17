@@ -37,6 +37,11 @@ header img{
     text-align: center;
 }
 
+p{
+    text-align: center;
+    justify-items: center;
+}
+
 h1{
     color: rgb(253,247,247);
     text-align: center;
